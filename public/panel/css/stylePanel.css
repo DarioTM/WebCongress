@@ -1,0 +1,38 @@
+.titlePanel {
+    font-family:Bebas Neue;
+    font-weight:100;
+    letter-spacing:2px;
+    color:black;
+    font-size: 1.8rem!important;
+    text-align:center;   
+
+    
+}
+
+.titlePanel a{
+    text-decoration:none!important;
+    color: #343944!important;
+}
+
+
+
+.navbar{
+    padding: 0.97rem 1rem!important;
+}
+
+h1,h2{
+    font-family:Bebas Neue!important;
+    color:#383838;
+}
+
+
+
+
+.titlePanelAdmin{
+    margin:0!important;
+    text-transform:uppercase!important;
+    font-weight:400!important;
+    letter-spacing:1px!important;
+    font-size:1.2rem!important;
+        
+}
